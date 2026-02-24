@@ -61,14 +61,28 @@ UI Display
 
 ## Project Structure
 
-components/        React UI components
-services/          Gemini API integration layer
-types.ts           Shared TypeScript types
-App.tsx            Main application logic
-index.tsx          Application entry point
-index.html         Root HTML template
-package.json       Dependencies and scripts
-vite.config.ts     Build configuration
+```
+ai-personal-finance-assistant/
+│
+├── components/           React UI components
+│   ├── AdvisorView.tsx
+│   ├── CalculatorView.tsx
+│   ├── InputForm.tsx
+│   └── ReportDisplay.tsx
+│
+├── services/
+│   └── geminiService.ts   Gemini API integration layer
+│
+├── App.tsx                Main application logic
+├── index.tsx              Application entry point
+├── index.html             Root HTML template
+├── types.ts               Shared TypeScript types
+├── package.json           Dependencies and scripts
+├── vite.config.ts         Build configuration
+└── tsconfig.json          TypeScript configuration
+```
+
+
 
 ## Project Structure
 - Install dependencies:
