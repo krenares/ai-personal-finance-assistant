@@ -1,0 +1,5 @@
+{
+  "name": "AI Personal Finance Assistant",
+  "description": "An AI-powered assistant to analyze your finances. It provides a detailed financial report in a dashboard format and offers conversational advice to help you manage your money effectively.",
+  "requestFramePermissions": []
+}
