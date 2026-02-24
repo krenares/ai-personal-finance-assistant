@@ -60,20 +60,21 @@ This project demonstrates full-stack AI integration using a modern React + TypeS
 
 ```
 User
-  ↓
+↓
 Browser
-  ↓
+↓
+Google Cloud Run (hosts React app + API calls)
+↓
 React Frontend (Vite + TypeScript)
-  ↓
-Google Cloud Run (containerized deployment)
-  ↓
-Gemini Service Layer
-  ↓
+↓
+Gemini Service Layer (services/geminiService.ts)
+↓
 Google Gemini API
-  ↓
+↓
 AI Response
-  ↓
+↓
 UI Display
+
 ```
 
 ## Project Structure
