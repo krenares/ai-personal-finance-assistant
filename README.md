@@ -11,9 +11,21 @@ An AI-powered personal finance assistant that provides budgeting insights, finan
 
 This project demonstrates full-stack AI integration using a modern React + TypeScript frontend and Gemini AI for real-time conversational financial assistance. Users can input financial data, ask budgeting questions, and receive intelligent recommendations through a responsive chatbot interface.
 
-The application is deployed to **Google Cloud Run**, showcasing containerized deployment and cloud-based scalability.
+The application is de## Screenshots
+
+### Chatbot Interface
+![Chatbot Screenshot](screenshots/chatbot.png)
+
+### Budget Analysis
+![Budget Analysis Screenshot](screenshots/analysis.png)
+
+### Main Interface
+![Main Interface Screenshot](screenshots/main.png)ployed to **Google Cloud Run**, showcasing containerized deployment and cloud-based scalability.
 
 ---
+
+
+
 
 ## Features
 
