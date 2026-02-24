@@ -94,17 +94,17 @@ https://ai-personal-finance-assistant-941458672134.us-west1.run.app/
 
 ## Engineering Highlights
 
-Designed structured prompts for consistent financial analysis responses
+- Designed structured prompts for consistent financial analysis responses
 
-Integrated Gemini AI through a dedicated service layer
+- Integrated Gemini AI through a dedicated service layer
 
-Implemented modular and maintainable React architecture
+- Implemented modular and maintainable React architecture
 
-Built a conversational chatbot interface
+- Built a conversational chatbot interface
 
-Deployed a production-ready application to Google Cloud Run
+- Deployed a production-ready application to Google Cloud Run
 
-Applied clean separation between UI, services, and application logic
+- Applied clean separation between UI, services, and application logic
 
 ## Purpose
 
