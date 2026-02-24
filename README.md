@@ -45,16 +45,21 @@ The application is deployed to **Google Cloud Run**, showcasing containerized de
 ---
 
 ## Architecture Overview
+
 ```
 User
   ↓
-React Frontend
+Browser
   ↓
-Gemini Service Layer (services/geminiService.ts)
+React Frontend (Vite + TypeScript)
   ↓
-Gemini API
+Google Cloud Run (containerized deployment)
   ↓
-Response Processing
+Gemini Service Layer
+  ↓
+Google Gemini API
+  ↓
+AI Response
   ↓
 UI Display
 ```
