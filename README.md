@@ -70,13 +70,13 @@ package.json       Dependencies and scripts
 vite.config.ts     Build configuration
 
 ## Project Structure
-Install dependencies:
+- Install dependencies:
 npm install
 
-Start development server:
+- Start development server:
 npm run dev
 
-Build for production:
+- Build for production:
 npm run build
 
 ## Deployment
