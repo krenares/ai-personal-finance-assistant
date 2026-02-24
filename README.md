@@ -83,11 +83,11 @@ npm run build
 
 This application is deployed using:
 
-Google Cloud Run
+- Google Cloud Run
 
-Containerized environment
+- Containerized environment
 
-Cloud-hosted runtime configuration
+- Cloud-hosted runtime configuration
 
 Live URL:
 https://ai-personal-finance-assistant-941458672134.us-west1.run.app/
