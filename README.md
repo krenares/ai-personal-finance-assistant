@@ -45,7 +45,7 @@ The application is deployed to **Google Cloud Run**, showcasing containerized de
 ---
 
 ## Architecture Overview
-
+'''
 User
   ↓
 React Frontend
@@ -57,6 +57,7 @@ Gemini API
 Response Processing
   ↓
 UI Display
+'''
 
 ## Project Structure
 
